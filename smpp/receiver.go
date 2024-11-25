@@ -11,8 +11,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/veoo/go-smpp/smpp/pdu"
-	"github.com/veoo/go-smpp/smpp/pdu/pdufield"
+	"github.com/gunnlaugurmani/go-smpp/smpp/pdu"
+	"github.com/gunnlaugurmani/go-smpp/smpp/pdu/pdufield"
 )
 
 // Receiver implements an SMPP client receiver.
